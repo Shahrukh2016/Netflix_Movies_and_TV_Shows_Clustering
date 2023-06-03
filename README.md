@@ -47,7 +47,7 @@ Don't settle for mediocre suggestions or waste time on subpar shows. Elevate you
 
 ## How to Access the Deployed System?
 
-1. Visit the Web App: [Netflix Recommender System]([https://www.netflix-enhanced.com](https://huggingface.co/spaces/Shahrukh2016/Netflix_Recommender_System))
+1. Explore the **Web App**: [Netflix Recommender System](https://huggingface.co/spaces/Shahrukh2016/Netflix_Recommender_System)
 2. Enter the Movie or TV Show of your taste.
 3. Sit back, relax, and let our recommendation system curate a tailor-made list of shows and movies based on your preferences.
 
