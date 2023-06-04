@@ -55,4 +55,7 @@ Start exploring a world of entertainment customized just for you. Uncover hidden
 
 Note: We had the data till 2019 only. Stay tuned as we expand our data in the near future.
 
+For complete project video explaination and to downoad the dataset: [Click here](https://drive.google.com/drive/folders/1kIA05f82ApuR5rMOH2uNmwmyxT6a3Uww?usp=sharing
+)
+
 Happy streaming and enjoy your enhanced Netflix experience!
