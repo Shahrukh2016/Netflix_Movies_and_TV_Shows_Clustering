@@ -1,6 +1,6 @@
 # Netflix TV and Movies Shows Clustering and Content-Based Netflix Recommender System
 
-![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2014_logo.svg)
+![](https://media.tenor.com/Rfyx9OkRI38AAAAC/netflix-netflix-startup.gif)
 
 This repository contains the code and resources for analyzing the Netflix dataset of movies and TV shows until 2019. The dataset was sourced from the third-party search engine Flixable and includes information about various attributes of the content available on Netflix. The goal of this project is to uncover insights, trends, and patterns within the dataset and develop a content-based recommender system using natural language processing (NLP) techniques.
 
