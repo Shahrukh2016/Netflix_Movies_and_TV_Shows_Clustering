@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Clustering and Content-Based Netflix Recommender System
+# Netflix Movies and TV Shows Clustering & Netflix Recommender System
 
 ![](https://media.tenor.com/Rfyx9OkRI38AAAAC/netflix-netflix-startup.gif)
 
